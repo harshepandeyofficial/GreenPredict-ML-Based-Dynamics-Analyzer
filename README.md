@@ -1,6 +1,6 @@
 # GreenPredict
 🌍 Welcome to GreenPredict, an advanced project focused on predicting the increment in greenhouse gases (GHG) and temperature, which further leads to an increase in the global warming rate. This repository showcases the use of various sophisticated machine learning models to forecast these critical environmental changes. 📈🌡️
-<h1 align="left" id="title">🌍 GreenPredict: Advanced Modeling of Greenhouse Gas Emissions and Temperature Rise</h1>
+<h1 align="Center" id="title">🌍Advanced Modeling of Greenhouse Gas Emissions and Temperature Rise🌍</h1>
 
 <p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GreenPredict/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
