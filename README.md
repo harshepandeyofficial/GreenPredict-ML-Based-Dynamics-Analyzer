@@ -7,7 +7,7 @@ Welcome to GreenPredict, an advanced project focused on predicting the increment
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Change_in_Average_Temperature.svg/1024px-Change_in_Average_Temperature.png"></p>
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200324_Global_average_temperature_-_NASA-GISS_HadCrut_NOAA_Japan_BerkeleyE.svg/1280px-20200324_Global_average_temperature_-_NASA-GISS_HadCrut_NOAA_Japan_BerkeleyE.png"></p>
-<p align="center"><img src="<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200324_Global_average_temperature_-_NASA-GISS_HadCrut_NOAA_Japan_BerkeleyE.svg/1280px-20200324_Global_average_temperature_-_NASA-GISS_HadCrut_NOAA_Japan_BerkeleyE.png"></p>"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200324_Global_average_temperature_-_NASA-GISS_HadCrut_NOAA_Japan_BerkeleyE.svg/1280px-20200324_Global_average_temperature_-_NASA-GISS_HadCrut_NOAA_Japan_BerkeleyE.png"></p>"></p>
 <p id="description">
   
 
