@@ -78,4 +78,6 @@ This project is licensed under the MIT License
 
 <h2>💖Like my work?</h2>
 
-Thank you for considering contributing to GreenPredict. Your support is greatly appreciated. For support you can mail me at: harshepandeyofficial@gmail.com.
+Thank you for considering contributing to GreenPredict. Your support is greatly appreciated. 
+➡️For support you can mail me at: harshepandeyofficial@gmail.com.
+➡️Or you can connect to me on linkedIn : www.linkedin.com/in/harshepandey
