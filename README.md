@@ -1,4 +1,4 @@
-# 🌍 GreenPredict - ML Based Global Warming Dynamics Analyzer
+# 🌍 GreenPredict - Global Warming Dynamics Analyzer Using Machine Learning
 Welcome to GreenPredict, an advanced project focused on predicting the increment in greenhouse gases (GHG) and temperature, which further leads to an increase in the global warming rate. This repository showcases the use of various sophisticated machine learning models to forecast these critical environmental changes.
 <h1 align="Center" id="title">Advanced Modeling of Greenhouse Gas Emissions and Temperature Rise 🌍🌡️</h1>
 
