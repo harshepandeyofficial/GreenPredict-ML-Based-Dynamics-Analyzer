@@ -1,2 +1,2 @@
 # GreenPredict
-🌍 GreenPredict: Advanced Modeling of Greenhouse Gas Emissions and Temperature Rise GreenPredict forecasts greenhouse gas emissions and temperature rise, key factors in global warming. Using machine learning models like Linear Regression, Lasso, Ridge, and Correlation Matrix, it offers valuable insights into future climate trends. 📈🌡️
+🌍 Welcome to GreenPredict, an advanced project focused on predicting the increment in greenhouse gases (GHG) and temperature, which further leads to an increase in the global warming rate. This repository showcases the use of various sophisticated machine learning models to forecast these critical environmental changes. 📈🌡️
