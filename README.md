@@ -20,7 +20,7 @@ Welcome to GreenPredict, an advanced project focused on predicting the increment
 Here're some of the project's best features:
 
 *   📌 Data Preprocessing: Efficient data handling and normalization techniques to prepare datasets for modeling.
-*   📌 Predictive Models: Implementation of multiple machine learning models including: LR, Lasso and Ridge Models as well as Correlation Matrix.
+*   📌 Predictive Models: Implementation of multiple machine learning models including: LR, Lasso, Ridge Models and Correlation Matrix.
 *   📌 Feature Engineering: Identifying and engineering relevant features to improve model accuracy.
 *   📌 Model Evaluation: Comprehensive evaluation metrics and visualization for model performance.
 *   📌 Global Warming Insights: Providing valuable insights into future climate trends based on predictive analytics and emissions rate
