@@ -4,6 +4,8 @@ Welcome to GreenPredict, an advanced project focused on predicting the increment
 
 <p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GreenPredict/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Solid&theme=Auto" alt="project-image"></p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Change_in_Average_Temperature.svg/1024px-Change_in_Average_Temperature.svg.png"></p>
+<p align="center"><img src="<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Change_in_Average_Temperature.svg/1024px-Change_in_Average_Temperature.svg.png"></p>"></p>
+
 <p id="description">
   
 
