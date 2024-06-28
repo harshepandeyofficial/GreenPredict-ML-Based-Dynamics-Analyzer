@@ -6,9 +6,6 @@ Welcome to GreenPredict, an advanced project focused on predicting the increment
 
 <p id="description">
   
-<h1 align="center" id="title">Advanced Modeling of Greenhouse Gas Emissions and Temperature Rise </h1>
-
-<p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GreenPredict/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Auto" alt="project-image"></p>
 
 <p id="description">An innovative project designed to forecast the increment in greenhouse gas emissions and temperature rise key contributors to global warming. Using sophisticated machine learning models including Linear Regression Lasso Ridge and Correlation Matrix analysis GreenPredict provides a robust framework for predicting future climate trends. By analyzing provided historical climate data and identifying key patterns the project aims to offer accurate predictions and valuable insights into the potential future impact of global warming. The models are carefully tuned and validated to ensure high accuracy and reliability.</p>
 
